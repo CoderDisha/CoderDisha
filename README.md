@@ -24,9 +24,8 @@
 ## 🔥 Tech Stack
 
 ```bash
-Languages: Python, JavaScript, C++, Java, Go, TypeScript, HTML/CSS
-Frameworks: React, Node.js, Express, Flask
-Tools: Git, VS Code, Linux, Docker
+Languages: Python, JavaScript, HTML/CSS
+Tools: Git, VS Code, Anaconda Navigator
 ```
 
 ---
@@ -35,7 +34,7 @@ Tools: Git, VS Code, Linux, Docker
 
 - 🦾 I break things just to fix them better 🚧
 - 🧠 “The only true wisdom is in knowing you know nothing.” – Socrates
-- 📝 If my code doesn’t work, it’s a feature not a bug™
+- 📝 If my code doesn’t work, it’s a feature, not a bug™
 - 🚀 “Stay hungry, stay foolish.” – Steve Jobs
 
 ---
@@ -67,11 +66,23 @@ Tools: Git, VS Code, Linux, Docker
 
 ---
 
-<details>
-  <summary>✨ Random Quote</summary>
-  
-  > "I'm not a robot, but my code sometimes is 🤖"
-</details>
+## 👥 Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=EliteXArnav&label=Profile+Views&color=blueviolet&style=flat)
+
+---
+
+## 🧠 Skills
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## ⚡ Random quot
+   > "I'm not a robot, but my code sometimes is 🤖"
 
 ---
 
